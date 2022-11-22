@@ -2,7 +2,6 @@
 
 # add additional repos for homebrew to track, update & install
 
-
 # install apps
 brew install act
 brew install asciinema
