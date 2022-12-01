@@ -1,5 +1,4 @@
-# MacOS Buildout
-
+# Fixing corrupted mysql root user
 Had to do this once root was hosed to get rid of corrupted DB
 
 - `brew services stop mysql`
